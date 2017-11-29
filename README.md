@@ -27,5 +27,7 @@
 
 ##### 與社群交流及推廣活動
 
+<div style="text-align:center" markdown="1">
   ![](https://github.com/twoss-io/OpenStack-Co-Lab/blob/master/img/openstack_intro2.png)
   ![](https://github.com/twoss-io/OpenStack-Co-Lab/blob/master/img/openstack_intro3.png)
+</div>
