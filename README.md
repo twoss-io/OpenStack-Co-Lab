@@ -22,12 +22,10 @@
 #### 團隊工作分配
 * 本Co-Lab與中央大學老師團隊、是方電訊及數位通國際等IDC業者合作，加強虛擬機HA能力提升營運環境容錯能力加強服務品質。
 
-  ![](https://github.com/twoss-io/OpenStack-Co-Lab/blob/master/img/openstack_intro1.png)
+![改善QEMU提供VM HA之功能架構](https://github.com/twoss-io/OpenStack-Co-Lab/blob/master/img/openstack_intro1.png)
 > 改善QEMU提供VM HA之功能架構
 
 ##### 與社群交流及推廣活動
 
-<div style="text-align:center" markdown="1">
-  ![](https://github.com/twoss-io/OpenStack-Co-Lab/blob/master/img/openstack_intro2.png)
-  ![](https://github.com/twoss-io/OpenStack-Co-Lab/blob/master/img/openstack_intro3.png)
-</div>
+![社群活動照1](https://github.com/twoss-io/OpenStack-Co-Lab/blob/master/img/openstack_intro2.png)
+![社群活動照2](https://github.com/twoss-io/OpenStack-Co-Lab/blob/master/img/openstack_intro3.png)
