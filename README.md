@@ -26,7 +26,7 @@
   <img src="https://github.com/twoss-io/OpenStack-Co-Lab/blob/master/img/openstack_intro1.png">
 </p>
 
- <p align="center">>改善QEMU提供VM HA之功能架構</p>
+>改善QEMU提供VM HA之功能架構
 
 <h4 align="center">與社群交流及推廣活動</h4>
 <p align="center">
