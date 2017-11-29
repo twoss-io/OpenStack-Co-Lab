@@ -67,3 +67,24 @@
 <p align="center">
   <img src="https://github.com/twoss-io/OpenStack-Co-Lab/blob/master/img/openstack_intro4.png">
 </p>
+
+## WG3: 雲端運算開源人才培育  
+
+#### 推動執行目標
+* Ceilometer子專案: OpenStack Ceilometer是以數據收集服務為核心，整合Aodh與Panko技術，再加上Gnocchi作為時間序列量測技術之儲存機制，開發雲系統監控管理與雲資源量測分析技術。
+* Trove子專案: Trove是OpenStack的資料庫即服務，開發資料庫租用服務(DBaaS)，異質資料庫管理、及高可靠度系統管理等。此外，Trove還提供高性能的資源隔離，同時自動執行複雜的管理任務，包括部署，配置，修補，備份，恢復和監視。
+
+#### 團隊工作分配
+* Ceilometer 4位: 
+   * 結合Aodh、Gnocchi、Panko之環境安裝、設定與功能測試，研究基於Hypervisor之資源監控流程與設計，並於OpenStack社群與Gnocchi Github中進行相關專案的設計討論與核心程式貢獻。
+* Trove 4位:  
+   * 在Newton平台安裝Trove組件，測試其功能並追蹤原始碼，分析Trove檢視、開啟及備份資料庫之程式流程。
+
+#### 具體產業效益
+* 提供BSS/OSS(Business support system/ Operations support system)  之資料來源，讓Cloud operator可以提供計價與監控服務
+提供Cloud-based DBaaS服務
+ 
+<p align="center">
+  <img src="https://github.com/twoss-io/OpenStack-Co-Lab/blob/master/img/openstack_intro5.png">
+</p>
+
